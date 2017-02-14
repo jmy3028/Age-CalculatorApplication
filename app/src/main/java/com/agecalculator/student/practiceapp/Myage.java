@@ -69,10 +69,7 @@ public class Myage extends AppCompatActivity {
 
                     mAge3display.setText("생일이 지나지 않았다면! 만 " + (mCalculation - 2) + "살");
 
-
                 }
-
-
             }
         });
 
