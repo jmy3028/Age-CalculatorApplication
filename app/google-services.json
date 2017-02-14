@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106202626576",
+    "firebase_url": "https://myagecalculator.firebaseio.com",
+    "project_id": "myagecalculator",
+    "storage_bucket": "myagecalculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106202626576:android:86302e96597eafd9",
+        "android_client_info": {
+          "package_name": "com.agecalculator.student.practiceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106202626576-1ce55ja7jtd1v1o9qmovgni739fhkn8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agecalculator.student.practiceapp",
+            "certificate_hash": "5291B4E7CB4B3917AE0C7294835331FCE62B14A0"
+          }
+        },
+        {
+          "client_id": "106202626576-1794urik0js3lie8ale8sj3hhmv6ob3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCziYwzkDMZzgknT-JMon9xP3qIjTdIPJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106202626576-1794urik0js3lie8ale8sj3hhmv6ob3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
